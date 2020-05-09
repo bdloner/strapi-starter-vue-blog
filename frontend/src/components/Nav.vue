@@ -4,7 +4,7 @@
       <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
           <li>
-            <a href="/">Strapi Blog </a>
+            <a href="/">Strapi Blog</a>
           </li>
         </ul>
       </div>

@@ -29,6 +29,7 @@ export default {
         articles {
           id
           title
+          Slug
           content
           image {
             url

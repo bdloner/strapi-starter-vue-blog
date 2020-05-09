@@ -49,6 +49,7 @@ export default {
           article(id: $id) {
             id
             title
+            Slug
             content
             image {
               url

@@ -25,6 +25,11 @@ const router = new VueRouter({
       components: require("./containers/Article.vue")
     },
     {
+      name: 'slug',
+      path: '/article/:slug',
+      components: require("./containers/Article.vue")
+    },
+    {
       path: "/category/:id",
       components: require("./containers/Category.vue")
     }
